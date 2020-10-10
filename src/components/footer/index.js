@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="text-muted">
-<div class="container">
+<div className="container">
     <p className="float-right">
         <a href="">Back to top</a>
     </p>

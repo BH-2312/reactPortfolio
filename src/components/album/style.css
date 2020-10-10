@@ -1,0 +1,25 @@
+#appPic {
+    height: 300px;
+    width: 340px;
+    margin-left: auto;
+      margin-right: auto;
+  }  
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  #pdf {
+   size: 200px;
+  } 
+  
+  #appPic1 {
+    height: 360px;
+    width: 450px;
+    margin-left: auto;
+      margin-right: auto;
+  }  
+  
+  #smallCard{
+    margin-top: 24px;
+  }

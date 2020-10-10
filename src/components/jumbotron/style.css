@@ -1,5 +1,15 @@
 .jumbotron {
     padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-bottom: 0;
     margin-bottom: 0;
+  }
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  }
+  .jumbotron h1 {
+    font-weight: 300;
+  }
+  
+  .jumbotron .container {
+    max-width: 40rem;
   }
