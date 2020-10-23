@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.37bc0feb.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.b487e1d3.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.b487e1d3.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.8278393b.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.8278393b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/reactPortfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a0ef295e.chunk.js": "/reactPortfolio/static/js/2.a0ef295e.chunk.js",
+    "static/js/2.a0ef295e.chunk.js.map": "/reactPortfolio/static/js/2.a0ef295e.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.488bc8de66e65154cecd3d4447a0426f.js": "/reactPortfolio/precache-manifest.488bc8de66e65154cecd3d4447a0426f.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/reactPortfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.37bc0feb.chunk.css.map": "/reactPortfolio/static/css/main.37bc0feb.chunk.css.map",
+    "static/js/2.a0ef295e.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.a0ef295e.chunk.js.LICENSE.txt",
+    "static/media/CaptureWorkScheduler.png": "/reactPortfolio/static/media/CaptureWorkScheduler.814006f1.png",
+    "static/media/LandingPage.png": "/reactPortfolio/static/media/LandingPage.69d22c75.png",
+    "static/media/MusicQuizDemo.gif": "/reactPortfolio/static/media/MusicQuizDemo.f5080359.gif",
+    "static/media/PasswordGeneratorSnapshot.png": "/reactPortfolio/static/media/PasswordGeneratorSnapshot.f5d10c80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8278393b.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a0ef295e.chunk.js",
+    "static/css/main.37bc0feb.chunk.css",
+    "static/js/main.b487e1d3.chunk.js"
+  ]
+}
